@@ -1,0 +1,115 @@
+body{
+    color: rgb(85, 7, 7);
+}
+.box{
+    border-color: rgb(242, 243, 244);
+    width: 50px;
+    text-align: center;
+}
+/* .logo{
+    height: 5px;
+    width: 5%;
+} */
+.link{
+    color: rgb(254, 251, 251);
+    text-decoration: none;
+}
+
+.link:hover{
+    color: rgb(181, 179, 179);
+    text-decoration: none;
+}
+.lin{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.lin:hover{
+    color: rgb(197, 192, 192);
+}
+.icon1{
+    padding: 2%;
+    font-size: 25px;
+    color: rgb(244, 245, 247);
+}
+.icon1:hover{
+    color: rgb(182, 182, 182);
+
+}
+.profile{
+    font-size: 18px;
+    font-style: normal;
+}
+
+#search{
+    margin-top: 2%;
+}
+.btn1{
+    padding: 6%;
+    width: 100px;
+    background-color: rgb(154, 193, 234);
+    margin-right: 5px;
+    color: white;
+}
+.btn1:hover{
+    background-color: rgb(116, 174, 231);
+    color: white;
+}
+@media(max-width:984px){
+    .btn1,.btn2{
+        padding: 5px;
+    }
+}
+.btn2{
+    margin-left:5px;
+    width: 80px;
+    background-color: rgb(153, 197, 244);
+    color: white;
+}
+.btn2:hover{
+    background-color: rgb(116, 174, 231);
+   color: white;
+}
+
+.btn3{
+    margin: 2%;
+    width: 100px;
+    background-color: rgb(160, 200, 243);
+    color: white;
+
+}
+.btn3:hover{
+    background-color: rgb(116, 174, 231);
+    color: white;
+}
+.btns{
+   margin-top: 2%;
+   background-color: rgb(69, 153, 243);
+   color: white;
+}
+.btns:hover{
+   background-color: rgb(11, 112, 229);
+   color: white;
+
+}
+.inbox{
+    border: solid;
+    border-width: thin;
+    border-color: brown;
+    margin: 20% 0%;
+}
+.head1{
+    margin: 5% 0%;
+    text-align: center;
+}
+.inbox1{
+    /* padding: 5% 0%; */
+    text-align: center;
+}
+.btnlink{
+    width: 200px;
+    padding: 10px;
+    color: white;
+   background-color: rgb(11, 112, 229);
+   border: none;
+}
